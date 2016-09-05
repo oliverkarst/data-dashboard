@@ -3,80 +3,10 @@
 var config = config || {
 	cities: [
 		{
-			name: 'Wien',
-			country: 'Austria',
-			path: 'vienna',
-			badge: 'Released',
-			group: 'city'
-		},
-		{
-			name: 'Aachen',
-			country: 'Germany',
-			path: 'aachen',
-			badge: 'Alpha',
-			group: 'city'
-		},
-		{
-			name: 'Amsterdam',
-			country: 'Netherlands',
-			path: 'amsterdam',
-			badge: 'Alpha',
-			group: 'city'
-		},
-		{
-			name: 'Berlin',
-			country: 'Germany',
-			path: 'berlin',
-			badge: 'Alpha',
-			group: 'city'
-		},
-		{
-			name: 'Bonn',
-			country: 'Germany',
-			path: 'bonn',
-			badge: 'Alpha',
-			group: 'city'
-		},
-		{
-			name: 'Köln',
-			country: 'Germany',
-			path: 'cologne',
-			badge: 'Alpha',
-			group: 'city'
-		},
-		{
-			name: 'Moers',
-			country: 'Germany',
-			path: 'moers',
-			badge: 'Alpha',
-			group: 'city'
-		},
-		{
-			name: 'Wuppertal',
-			country: 'Germany',
-			path: 'wuppertal',
-			badge: 'Alpha',
-			group: 'city'
-		} /*,
-		{
-			name: 'Open Data Portal Österreich',
-			country: 'Austria',
-			path: 'odp.at',
-			badge: 'Alpha',
-			group: 'portal'
-		}*/
-		,{
 			name: 'Deutsche Bahn',
 			country: 'Germany',
 			path: 'deutschebahn',
 			badge: 'Beta',
-			group: 'portal'
-		}
-		,{
-			name: 'NRW',
-			country: 'Germany',
-			path: 'nrw',
-			badge: 'Alpha',
 			group: 'portal'
 		}
 	],
